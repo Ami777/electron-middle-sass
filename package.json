@@ -7,8 +7,8 @@
     "url": "https://github.com/Bradshaw/electron-middle-sass"
   },
   "engines": {
-    "electron": "^3.x.x",
-    "node": "^8.x.x"
+    "electron": "x.x.x",
+    "node": "x.x.x"
   },
   "main": "index.js",
   "scripts": {
